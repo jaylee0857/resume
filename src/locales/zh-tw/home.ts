@@ -4,7 +4,7 @@ export default {
   helloTitle: "我是 Hall",
   im: "我是",
   jobTitle: "全端工程師",
-  openingText: `我是一位擁有 5 至 6 年 Web開發經驗的工程師，對網頁設計與程式開發充滿熱情與實戰經驗。
+  openingText: `我是一位擁有 6 至 7 年 Web開發經驗的工程師，對網頁設計與程式開發充滿熱情與實戰經驗。
 精通 HTML、CSS、JavaScript、TypeScript、Vue3（含 Vuex、Nuxt.js），能建構高效且具維護性的前端架構，熟悉 React 與 Node.js，可靈活切換技術棧以滿足專案需求。
 運用 Vitest、vue-test-utils 等自動化測試工具確保程式穩定性與品質。
 具備 PHP 與 MySQL 實作經驗，能獨立完成全端開發與 API 串接。
