@@ -1,13 +1,13 @@
 export default {
   hello: "哈囉，您好！",
   heyAll: "嗨，大家好！",
-  helloTitle: "我是 Hall",
+  helloTitle: "我是 Hal",
   im: "我是",
-  jobTitle: "全端工程師",
+  jobTitle: "前端工程師",
   openingText: `我是一位擁有 6 至 7 年 Web開發經驗的工程師，對網頁設計與程式開發充滿熱情與實戰經驗。
 精通 HTML、CSS、JavaScript、TypeScript、Vue3（含 Vuex、Nuxt.js），能建構高效且具維護性的前端架構，熟悉 React 與 Node.js，可靈活切換技術棧以滿足專案需求。
 運用 Vitest、vue-test-utils 等自動化測試工具確保程式穩定性與品質。
-具備 PHP 與 MySQL 實作經驗，能獨立完成全端開發與 API 串接。
+具備 PHP 與 MySQL 實作經驗，能獨立完成前端開發與 API 串接。
 
 曾負責 GA 事件追蹤 與資料分析串接，協助優化使用者行為追蹤與決策依據。
 
@@ -17,10 +17,10 @@ export default {
   jobTitleAt: "前端工程師、後端工程師",
   company: "",
   workLocation: "目前居住在台中市",
-  name: "Hall",
+  name: "Hal",
   skills: "擁有的技能",
   narrative: "來看看我的作品吧！",
   connect: "運用所學的知識,打造出能與使用者互動的網頁作品！",
   "header.title": "Li",
-  "header.title2": "Hall"
+  "header.title2": "Hal"
 };
