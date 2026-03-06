@@ -101,7 +101,7 @@ const toBlog = () => {
     <div class="layout-default-suspension">
       <div class="layout-default-suspensionBar">
         <p>H</p>
-        <p class="layout-default-suspensionBar--text">Hall</p>
+        <p class="layout-default-suspensionBar--text">Hal</p>
       </div>
     </div>
     <slot />
