@@ -125,7 +125,7 @@ const worksDisplayData = ref<WorkDisplay[]>([
           <img
             style="border: 2px solid white; border-radius: 3px"
             class="home-right--img"
-            src="@/assets/images/card_green.png"
+            src="@/assets/images/hal.png"
             alt=""
           />
         </header-host>

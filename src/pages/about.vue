@@ -72,11 +72,7 @@ const worksData = ref<WorkItem[]>([
 <template>
   <div class="about">
     <div class="about-avatar">
-      <img
-        class="about-avatar--img"
-        src="@/assets/images/card_green.png"
-        alt=""
-      />
+      <img class="about-avatar--img" src="@/assets/images/hal.png" alt="" />
     </div>
     <div class="about-marquee">
       <Vue3Marquee>
@@ -110,11 +106,7 @@ const worksData = ref<WorkItem[]>([
       </div>
       <div class="about-right">
         <header-host>
-          <img
-            class="about-right--img"
-            src="@/assets/images/card_green.png"
-            alt=""
-          />
+          <img class="about-right--img" src="@/assets/images/hal.png" alt="" />
         </header-host>
       </div>
     </section>
